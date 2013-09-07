@@ -58,8 +58,8 @@ in the `deployer_authorized_keys` data bag, one json file per user:
 
 ### Attributes
 
-* `node.ruby.version`: ruby-1.9.3-p194
-* `node.ruby.bundler_version`: 1.2.4
+* `node.ruby.version`: ruby-2.0.0-p247
+* `node.ruby.bundler_version`: 1.3.5
 
 ### Recipe
 
@@ -71,7 +71,7 @@ in the `deployer_authorized_keys` data bag, one json file per user:
 
 ### Attributes
 
-* `node.rails.application.unicorn.version`: 4.6.2
+* `node.rails.application.unicorn.version`: 4.6.3
 
 ### Recipe
 
